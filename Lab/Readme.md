@@ -1,3 +1,7 @@
+---
+---
+
+
 # ENVIRON/ENERGY 716 - Modeling for Energy Systems - LAB
 
 In this course you will learn how to perform simple calculations, rearrange data sets and solve optimization models using Python.
@@ -22,24 +26,37 @@ Note that with Option 1 you can keep running Python scripts on your personal com
 
 Google Colaboratory, or “Colab” for short, is a web-based iPython Notebook service for interactive coding. It allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs and easy sharing. Zero configuration required means you do not need to have Python, Anaconda and libraries installed to your local machine. Google Colab is very similar to Jupyter Notebook.
 
+### Set Up Google Colab
+
 To set up your Google Colab go to your Google Drive and select New.
 
 ![Screenshot](/_Images/Picture1.png)
 
 Navigate to More > Connect more apps.
 
+![Screenshot](/_Images/Picture2.png)
+
 A pop-up window will appear. Scroll down until you find Colaboratory.
 
+![Screenshot](/_Images/Picture3.png)
 
 Select Colaboratory and on the next pop-up window click Install.
 
+![Screenshot](/_Images/Picture4.png)
 
 You are all set!
 
 You can also mount Colab to your Google Drive by simply opening a colab window (e.g. https://colab.research.google.com/notebooks/intro.ipynb), locating the MountGoogleColab.ipynb available on our GitHub repository (https://github.com/lmmlima/ENV716_EnergyModeling_F2021) and running it.
 
 The easiest way to save Colab notebooks is to save it in your Google Drive. Click File > Save a copy in Drive. Once you saved a copy, you can open it from your Google Drive or Colab dashboard.
-Please create a folder for this course (e.g. ENV716) in your Google Drive and save all Colab notebook files in there for easy access.
+
+### Storing your Colab Scripts
+
+Once you create your first Colab file and mount to your google drive, a folder called "Colab Notebooks" will be created on you Google Drive. All files you create, edit and save a copy will be stored in that folder.
+
+Please create a folder for this course (e.g. F2022_ENV716) in your Google Drive and save all Colab notebook files in there for easy access.
+
+### Installing libraries on Google's GPU to run your codes
 
 Bash commands can be run in your notebook (similar to how you would do in your terminal) by prefixing the command with ''!''. For example, '!pwd' command prints out the pathway to the current working directory. '!ls' command prints out a list of contents in current directory.
 
@@ -54,23 +71,19 @@ To install other libraries available through Advanced Package Tool (apt) use ‘
 For more info visit
 https://colab.research.google.com/drive/1YKHHLSlG-B9Ez2-zf-YFxXTVgfC_Aqtt#scrollTo=UTRJlO55LdKf
 
-
-Your first code in Colab:
+### Writing your First Code in Colab
 
 Now to check if everything is working, you can write a command to display a simple sentence “Hello World”. Open a new notebook on Colab and type the following command.
 
 print('Hello World')
 
-
 This will output the following:
 
+![Screenshot](/_Images/Picture5.png)
 
 
 If you get the same output above, then you’ve finished your first, and probably the simplest program using Python! Feel free to play with it and write anything else you want!
 
-
-
-Once you open your first Colab file and mount to your google drive, a folder called "Colab Notebooks" will be created on you Google Drive. All files you create, edit and save a copy will be stored in that folder.
 
 ## Option 2: Jupyter Containers
 
@@ -88,7 +101,7 @@ When you need to resume work, simply return to the "https://cmgr.oit.duke.edu/co
 ## Option 3: Getting Started With Python on your personal computer
 
 Please follow the instructions on the Python 101 file and make sure everything is running on your computer.
-There are two Python 101 files, one for Mac users and one for PC users.
+There are two Python 101 files, one for Mac users "/Python_101_MacUsers.pdf")" and one for PC users "Python_101_MacUsers.pdf").
 
 Once Python is up and running and you got your "Hello World" message, you are ready to run your first .ipynb script.
 
