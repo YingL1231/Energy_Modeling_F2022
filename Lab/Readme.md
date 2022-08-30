@@ -10,35 +10,80 @@ If you have any questions, please use the email distribution list *ask716@duke.e
 
 ## Course Set Up
 
-As mentioned before we will use Google Colab to run our Python code we are calling it option 1. But you there are two other options to run Python scripts as stated below.
+As mentioned before we will use Google Colab to run our Python code we are calling it option 1. But there are two other options to run Python scripts as stated below.
 
-* **Option 1 (preferred):** Using Google Colaboratory on Duke machines or personal laptop. That the one we will use in the labs. <br>
-* **Option 2:** Using Duke Jupyter Notebook Container on Duke machines or personal laptop. <br>
-* **Option 3:** Using Jupyter notebook and Anaconda on your personal computer, i.e., running the scripts locally in your computer.  <br>
+* **Option 1 (preferred):** Using Google Colaboratory on Duke machines or personal laptop. That's teh option we will use in the labs. *No software installation required.* <br>
+* **Option 2:** Using Duke Jupyter Notebook Container on Duke machines or personal laptop. *No software installation required.*  <br>
+* **Option 3:** Using Jupyter notebook and Anaconda on your personal computer, i.e., running the scripts locally in your computer. *Software installation required.* <br>
 
-Options 1 and 2 do not require any software installation. Option 1 is preferred because you can keep running Python scripts on your personal computer after you graduate, while the Jupyter containers will only be available to you while you are at Duke.
+Note that with Option 1 you can keep running Python scripts on your personal computer after you graduate, while the Jupyter containers will only be available to you while you are at Duke.
 
 ## Option 1: Getting Started With Google Colab and Python
 
-If you choose to use Google Colab, you do not need to install Python and any other library in your machine. You will create you .ipynb file and run it using Google's GPU. With Google Colab you can open the file directly from the class Github repository.
+Google Colaboratory, or “Colab” for short, is a web-based iPython Notebook service for interactive coding. It allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs and easy sharing. Zero configuration required means you do not need to have Python, Anaconda and libraries installed to your local machine. Google Colab is very similar to Jupyter Notebook.
 
-* Step 1: Go to "**https://colab.research.google.com/notebooks/intro.ipynb**". <br>
-* Step 2: Select: File > Open Notebook. <br>
-* Step 3: In the pop-up window navigate to the GitHub tab and locate our repository "ENV716/Energy_Modeling_F2022". All available .ipynb files should appear in the list. <br>
-* Step 4: Choose the file one you want to open. You can now run and make any changes to this file. Make sure you save a copy of this file and any changes to your google drive before closing it. <br>
+To set up your Google Colab go to your Google Drive and select New.
+
+![Screenshot](/.Images/Picture1.png)
+
+Navigate to More > Connect more apps.
+
+A pop-up window will appear. Scroll down until you find Colaboratory.
+
+
+Select Colaboratory and on the next pop-up window click Install.
+
+
+You are all set!
+
+You can also mount Colab to your Google Drive by simply opening a colab window (e.g. https://colab.research.google.com/notebooks/intro.ipynb), locating the MountGoogleColab.ipynb available on our GitHub repository (https://github.com/lmmlima/ENV716_EnergyModeling_F2021) and running it.
+
+The easiest way to save Colab notebooks is to save it in your Google Drive. Click File > Save a copy in Drive. Once you saved a copy, you can open it from your Google Drive or Colab dashboard.
+Please create a folder for this course (e.g. ENV716) in your Google Drive and save all Colab notebook files in there for easy access.
+
+Bash commands can be run in your notebook (similar to how you would do in your terminal) by prefixing the command with ''!''. For example, '!pwd' command prints out the pathway to the current working directory. '!ls' command prints out a list of contents in current directory.
+
+Bash command can be used to install libraries. Most common libraries are already installed on Colab. If you need to install additional libraries you can use ‘!pip’
+
+!pip install [library name]
+
+To install other libraries available through Advanced Package Tool (apt) use ‘!apt-get’
+
+!apt-get install [package name]
+
+For more info visit
+https://colab.research.google.com/drive/1YKHHLSlG-B9Ez2-zf-YFxXTVgfC_Aqtt#scrollTo=UTRJlO55LdKf
+
+
+Your first code in Colab:
+
+Now to check if everything is working, you can write a command to display a simple sentence “Hello World”. Open a new notebook on Colab and type the following command.
+
+print('Hello World')
+
+
+This will output the following:
+
+
+
+If you get the same output above, then you’ve finished your first, and probably the simplest program using Python! Feel free to play with it and write anything else you want!
+
+
+
+Once you open your first Colab file and mount to your google drive, a folder called "Colab Notebooks" will be created on you Google Drive. All files you create, edit and save a copy will be stored in that folder.
 
 ## Option 2: Jupyter Containers
 
 An alternative to using Nicholas School machines or installing Anaconda and Python on a personal machine is to use one of Duke’s Jupyter containers. With this option there is no need to install any software. You can access your Jupyter session anywhere from any machine via a web browser.
 
-You will you need to creating/set up your Jupyter container.
+You will you need to create/set up your Jupyter container.
 
-* Step 1: Navigate to https://cmgr.oit.duke.edu/containers and log in.
-* Step 2: Click on the reserve Jupyter button.
+* Step 1: Navigate to "https://cmgr.oit.duke.edu/containers" and log in with your net ID.
+* Step 2: Click on the reserve Jupyter button (right column).
 
-You now have a dedicated Jupyter machine. At the end of the semester Duke IT will send a message asking whether you want to extend your reservation.
+You now have a dedicated Jupyter machine and teh name Jupyter should appear in the left column. At the end of the semester Duke IT will send a message asking whether you want to extend your reservation.
 
-When you need to resume work, simply return to the https://cmgr.oit.duke.edu/containers site and log in. You’ll see a button to access your existing container.
+When you need to resume work, simply return to the "https://cmgr.oit.duke.edu/containers" site and log in. You’ll see a button to access your existing container.
 
 ## Option 3: Getting Started With Python on your personal computer
 
