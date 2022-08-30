@@ -1,5 +1,5 @@
 ---
-title: "Lab 1 - Course Set Up"
+#title: "Lab 1 - Course Set Up"
 ---
 
 # Course Set Up
