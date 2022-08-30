@@ -84,26 +84,33 @@ If you get the same output above, then you’ve finished your first, and probabl
 
 ## Option 2: Jupyter Containers
 
-An alternative to using Nicholas School machines or installing Anaconda and Python on a personal machine is to use one of Duke’s Jupyter containers. With this option there is no need to install any software. You can access your Jupyter session anywhere from any machine via a web browser.
+An alternative to using Colab, Nicholas School machines or installing Anaconda and Python on a personal machine is to use one of Duke’s Jupyter containers. With this option there is no need to install any software. You can access your Jupyter session anywhere from any machine via a web browser.
 
 You will you need to create/set up your Jupyter container.
 
 * Step 1: Navigate to "https://cmgr.oit.duke.edu/containers" and log in with your net ID.
 * Step 2: Click on the reserve Jupyter button (right column).
 
-You now have a dedicated Jupyter machine and teh name Jupyter should appear in the left column. At the end of the semester Duke IT will send a message asking whether you want to extend your reservation.
+You now have a dedicated Jupyter machine and the name Jupyter should appear in the left column. At the end of the semester Duke IT will send a message asking whether you want to extend your reservation.
 
 When you need to resume work, simply return to the "https://cmgr.oit.duke.edu/containers" site and log in. You’ll see a button to access your existing container.
+
+For each lab you will need to do go over the following steps.
+
+* Step 1: Locate the file in the Github repo, for example <i> Lab01_SimpleCalculation.ipynb </i>. <br>
+* Step 2: Right-click on <i> Raw > Download Linked File As </i>. Save it on a local folder in your machine. <br>
+* Step 3: Open Jupyter containers and upload the file from Step 2 into your work folder. <br>
+* Step 5: After you upload the file, click on it to open. You will need to comment all lines that refer to mounting google drive.<br>
 
 ## Option 3: Getting Started With Python on your personal computer
 
 Please follow the instructions on the Python 101 file and make sure everything is running on your computer.
 There are two Python 101 files, one for Mac users "/Python_101_MacUsers.pdf")" and one for PC users "Python_101_MacUsers.pdf").
 
-Once Python is up and running and you got your "Hello World" message, you are ready to run your first .ipynb script.
+Once Python is up and running and you got your "Hello World" message, you are ready to run your first .ipynb script. For each lab you will need to do go over the following steps.
 
-* Step 1: Locate the file in the Github repo, for example <i> Lab1_SimpleCalculation.ipynb </i>. <br>
+* Step 1: Locate the file in the Github repo, for example <i> Lab01_SimpleCalculation.ipynb </i>. <br>
 * Step 2: Right-click on <i> Raw > Download Linked File As </i>. Save it on a local folder in your machine. <br>
 * Step 3: Open Jupyter notebook using your terminal (for Mac users) or Anaconda (for PC users). <br>
 * Step 4: From the list of folders that appear on Jupyter web application, find the folder were you saved the <i> .ipynb </i> file. <br>
-* Step 5: After you locate the file, click on it to open. Remember that to run it locally you need to perform the installation steps from Python 101 files. <br>
+* Step 5: After you locate the file, click on it to open. Remember that to run it locally you need to perform the installation steps from Python 101 files. Also you will need to comment all lines that refer to mounting google drive or bash/terminal commands.<br>
