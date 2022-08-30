@@ -24,7 +24,7 @@ Google Colaboratory, or “Colab” for short, is a web-based iPython Notebook s
 
 To set up your Google Colab go to your Google Drive and select New.
 
-![Screenshot](/.Images/Picture1.png)
+![Screenshot](/_Images/Picture1.png)
 
 Navigate to More > Connect more apps.
 
