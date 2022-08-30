@@ -30,19 +30,19 @@ Google Colaboratory, or “Colab” for short, is a web-based iPython Notebook s
 
 To set up your Google Colab go to your Google Drive and select New.
 
-![Screenshot](/_Images/Picture1.png)
+![Screenshot](/Lab/_Images/Picture1.png)
 
 Navigate to More > Connect more apps.
 
-![Screenshot](/_Images/Picture2.png)
+![Screenshot](/Lab/_Images/Picture2.png)
 
 A pop-up window will appear. Scroll down until you find Colaboratory.
 
-![Screenshot](/_Images/Picture3.png)
+![Screenshot](/Lab/_Images/Picture3.png)
 
 Select Colaboratory and on the next pop-up window click Install.
 
-![Screenshot](/_Images/Picture4.png)
+![Screenshot](/Lab/_Images/Picture4.png)
 
 You are all set!
 
@@ -79,8 +79,7 @@ print('Hello World')
 
 This will output the following:
 
-![Screenshot](/_Images/Picture5.png)
-
+![Screenshot](/Lab/_Images/Picture5.png)
 
 If you get the same output above, then you’ve finished your first, and probably the simplest program using Python! Feel free to play with it and write anything else you want!
 
