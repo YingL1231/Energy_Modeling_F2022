@@ -2,11 +2,9 @@
 
 In this course you will learn how to perform simple calculations, rearrange data sets and solve optimization models using Python.
 
-We will use Python and Google Colab to develop our codes. Google Colab is a tool that allows you to write, run and share Python codes within your browser without the need to install any software. Google Colab documents have extension *.ipynb* (just like Jupyter notebooks) and use the Markdown format which means you can create a document that contains text, images and executable code.
+We will use Python and Google Colaboratory to develop our codes. Google Colab is a tool that allows you to write, run and share Python codes within your browser without the need to install any software. Google Colab documents have extension *.ipynb* (like Jupyter notebooks) and use the Markdown format which means you can create a document that contains text, images and executable code.
 
-We will use this GitHub folder to share the *.ipynb* scripts developed in the labs as well as some additional resources. GitHub is a cloud-based hosting service for software development where users can collaborate on and store their codes.
-
- A notebook which means our scripts you have python code and simple text. The extension of Jupyter python notebooks is *.ipynb*. <br>
+We will use this GitHub folder to share the *.ipynb* scripts developed in the labs as well as some additional resources. GitHub is a cloud-based hosting service for software development where users can collaborate and store their codes.
 
 If you have any questions, please use the email distribution list *ask716@duke.edu* to ask. <br>
 
