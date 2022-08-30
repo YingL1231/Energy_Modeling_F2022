@@ -54,8 +54,6 @@ The easiest way to save Colab notebooks is to save it in your Google Drive. Clic
 
 Once you create your first Colab file and mount to your google drive, a folder called "Colab Notebooks" will be created on you Google Drive. All files you create, edit and save a copy will be stored in that folder.
 
-Please create a folder for this course (e.g. F2022_ENV716) in your Google Drive and save all Colab notebook files in there for easy access.
-
 ### Installing libraries on Google's GPU to run your codes
 
 Bash commands can be run in your notebook (similar to how you would do in your terminal) by prefixing the command with ''!''. For example, '!pwd' command prints out the pathway to the current working directory. '!ls' command prints out a list of contents in current directory.
