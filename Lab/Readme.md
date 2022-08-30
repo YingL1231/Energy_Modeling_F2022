@@ -1,12 +1,18 @@
-# ENV716 - Modeling for Energy Systems Lab
+# ENVIRON/ENERGY 716 - Modeling for Energy Systems - LAB
 
-This folder will have all the slides, resources and *.ipynb* notebooks used in the labs. <br>
+In this course you will learn how to perform simple calculations, rearrange data sets and solve optimization models using Python.
 
-If you have any questions, please use the email distribution list *ask716@duke.edu*. <br>
+We will use Python and Google Colab to develop our codes. Google Colab is a tool that allows you to write, run and share Python codes within your browser without the need to install any software. Google Colab documents have extension *.ipynb* (just like Jupyter notebooks) and use the Markdown format which means you can create a document that contains text, images and executable code.
+
+We will use this GitHub folder to share the *.ipynb* scripts developed in the labs as well as some additional resources. GitHub is a cloud-based hosting service for software development where users can collaborate on and store their codes.
+
+ A notebook which means our scripts you have python code and simple text. The extension of Jupyter python notebooks is *.ipynb*. <br>
+
+If you have any questions, please use the email distribution list *ask716@duke.edu* to ask. <br>
 
 ## Course Set Up
 
-As mentioned in the lecture in this course you will learn how to perform simple calculations, rearrange data sets and solve optimization models in Python. We will use Jupyter notebooks which means our scripts you have python code and simple text. The extension of Jupyter python notebooks is *.ipynb*. You have three options to run Python scripts.
+As mentioned before we will use Google Colab to run our Python code we are calling it option 1. But you there are two other options to run Python scripts as stated below.
 
 * **Option 1 (preferred):** Using Google Colaboratory on Duke machines or personal laptop. That the one we will use in the labs. <br>
 * **Option 2:** Using Duke Jupyter Notebook Container on Duke machines or personal laptop. <br>
@@ -21,7 +27,7 @@ If you choose to use Google Colab, you do not need to install Python and any oth
 * Step 1: Go to "**https://colab.research.google.com/notebooks/intro.ipynb**". <br>
 * Step 2: Select: File > Open Notebook. <br>
 * Step 3: In the pop-up window navigate to the GitHub tab and locate our repository "ENV716/Energy_Modeling_F2022". All available .ipynb files should appear in the list. <br>
-* Step 4: Choose the file one you want to open. In this case it will be "Lab1_SimpleCalculation.ipynb". You can now run and make any changes to this file. Make sure you save a copy of this file and any changes to your google drive before closing it. <br>
+* Step 4: Choose the file one you want to open. You can now run and make any changes to this file. Make sure you save a copy of this file and any changes to your google drive before closing it. <br>
 
 ## Option 2: Jupyter Containers
 
