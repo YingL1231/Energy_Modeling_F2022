@@ -17,7 +17,7 @@ If you have any questions, please use the email distribution list *ask716@duke.e
 As mentioned before we will use Google Colab to run our Python code we are calling it option 1. But there are two other options to run Python scripts as stated below.
 
 * **Option 1 (preferred):** Using Google Colaboratory on Duke machines or personal laptop. That's teh option we will use in the labs. *No software installation required.* <br>
-* **Option 2:** Using Duke Jupyter Notebook Container on Duke machines or personal laptop. *No software installation required.*  <br>
+* **Option 2:** Using Jupyter Container on Duke machines or personal laptop. *No software installation required.*  <br>
 * **Option 3:** Using Jupyter notebook and Anaconda on your personal computer, i.e., running the scripts locally in your computer. *Software installation required.* <br>
 
 Note that with Option 1 you can keep running Python scripts on your personal computer after you graduate, while the Jupyter containers will only be available to you while you are at Duke.
