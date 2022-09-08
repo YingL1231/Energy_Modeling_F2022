@@ -1,6 +1,10 @@
+---
+
+---
+
 # Lab 2 - Reading Data Sets in Python
 
-Learning goals: 
+Learning goals:
 * How to read excel spreadsheets in Python;
 * How to slice you large data set into a smaller data set;
 * How to filter rows and columns;

@@ -10,7 +10,7 @@ We will use Python and Google Colaboratory to develop our codes. Google Colab is
 
 We will use this GitHub folder to share the *.ipynb* scripts developed in the labs as well as some additional resources. GitHub is a cloud-based hosting service for software development where users can collaborate and store their codes.
 
-If you have any questions, please use the email distribution list *ask716@duke.edu* to ask. <br>
+If you have any questions, please use the email distribution list *716ask@duke.edu* to ask. <br>
 
 ## Course Set Up
 
@@ -46,7 +46,7 @@ Select Colaboratory and on the next pop-up window click Install.
 
 You are all set!
 
-You can also mount Colab to your Google Drive by simply opening a colab window (e.g. https://colab.research.google.com/notebooks/intro.ipynb), locating the MountGoogleColab.ipynb available on our GitHub repository (https://github.com/ENV716/Energy_Modeling_F2022/Lab) and running it.
+You can also mount Colab to your Google Drive by simply opening a Colab window (e.g. https://colab.research.google.com/notebooks/intro.ipynb), locating the MountGoogleColab.ipynb available on our GitHub repository (https://github.com/ENV716/Energy_Modeling_F2022/Lab) and running it.
 
 The easiest way to save Colab notebooks is to save it in your Google Drive. Click File > Save a copy in Drive. Once you saved a copy, you can open it from your Google Drive or Colab dashboard.
 
