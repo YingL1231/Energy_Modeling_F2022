@@ -21,5 +21,5 @@ Make sure you have a copy of the e-grid 2020 file on you drive before you run th
 
 Details on the libraries and function used in Lab 2 script can be found in these two videos. The first video is mainly importing the data set from the e-grid spreadsheet GEN18. And the second video shows how to slice and filter the data set. Note that on this videos we use an older version of e-grid with Jupyter Notebook.
 
-Video 1: https://youtu.be/EhTb7Wvrw3I
+Video 1: https://youtu.be/EhTb7Wvrw3I <br>
 Video 2: https://youtu.be/DbPyH1q4q98
