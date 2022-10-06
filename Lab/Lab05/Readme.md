@@ -8,8 +8,6 @@ Learning goals:
 
 1. Discuss the “how” argument of pd.merge dataframes;
 2. Discuss loop for and while and if statements;
-2. Intro to the Pyomo library for solving optimizations models;
-3. Solver integration, adjusting paths.
 
 To open the file for Lab 05 follow the steps below.
 
@@ -21,10 +19,3 @@ To open the file for Lab 05 follow the steps below.
 * Step 5: Select *File* and then *Save a Copy to Drive*. A new tab should appear on your browser with a file named "Copy of ...". Rename this file to eliminate the "Copy of" part. <br>
 
 Note that it was automatically saved on your drive folder named "Colab Notebooks". You can now make any edits/changes to your notebook and it will be stored on your drive. <br>
-
-**Additional resources**
-
-If you are using Jupyter notebook to run the notebooks you will need to follow the steps described in the "Optional_Pyomo_101_MacUsers" or "Optional_Pyomo_101_PCUsers".
-
-Video 1: https://youtu.be/LZj6NPxqvh4 <br>
-Video 2: https://youtu.be/CnyiVI2cLx8
