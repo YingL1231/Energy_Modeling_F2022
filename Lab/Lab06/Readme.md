@@ -2,14 +2,13 @@
 
 ---
 
-# Lab 5 - Manipulating Data frames and Intro to LP
+# Lab 5 - Linear Programming in Python
 
 Learning goals:
 
-1. Discuss the “how” argument of pd.merge dataframes;
-2. Discuss loop for and while and if statements;
-2. Intro to the Pyomo library for solving optimizations models;
-3. Solver integration, adjusting paths.
+1. Discuss the “how” argument of pd.merge dataframes
+2. Intro to the Pyomo library for solving optimizations models
+3. Solver integration, adjusting paths
 
 To open the file for Lab 05 follow the steps below.
 
