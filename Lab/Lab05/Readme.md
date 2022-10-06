@@ -2,7 +2,7 @@
 
 ---
 
-# Lab 5 - Manipulating Data frames and Intro to LP
+# Lab 5 - Manipulating Data frames and loop/if structures
 
 Learning goals:
 

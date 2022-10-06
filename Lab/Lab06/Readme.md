@@ -7,7 +7,7 @@
 Learning goals:
 
 1. Intro to the Pyomo library for solving optimizations models;
-2. Solver integration, adjusting paths.
+2. Solver integration, adjusting paths;
 3. Look at file for Lab06_IntroLP_Part1;
 4. Implement other LP examples.
 
