@@ -30,6 +30,11 @@ The second shows how to create a dictionary to improve the temperature converter
 Video 1: https://youtu.be/Hitye209IhI <br>
 Video 2: https://youtu.be/hPsM3_i0DjU <br>
 
-For more info on how to share your Colab script as HTML please visit this [link](https://joets.medium.com/export-google-colab-notebook-as-html-webpage-39734a3d195e). <br>
+For more info on how to share your Colab script as HTML please visit this [link](https://joets.medium.com/export-google-colab-notebook-as-html-webpage-39734a3d195e). <br> And watch the recording below.
 
-For more info on formatted output visit this [link](https://python-course.eu/python-tutorial/formatted-output.php).
+Video 3: [Converting to HTML](https://youtu.be/hDX0l5_mtEg) <br>
+
+
+For more info on formatted output visit this [link](https://python-course.eu/python-tutorial/formatted-output.php). And watch the recording below.
+
+Video 4: [Formated Output](https://youtu.be/25vyJ5yR5q8)
