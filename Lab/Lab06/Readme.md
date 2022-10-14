@@ -11,7 +11,7 @@ Learning goals:
 3. Look at file for Lab06_IntroLP_Part1;
 4. Implement other LP examples.
 
-To open the file for Lab 05 follow the steps below.
+To open the file for Lab 06 follow the steps below.
 
 * Step 1: Open your google drive, navigate to your "Colab Notebooks" <br>
 * Step 2: Click on the plus sign on the upper left **+ New** and navigate to "Google Colaboratory". It should be under *More*. <br>
