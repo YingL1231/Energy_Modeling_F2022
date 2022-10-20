@@ -8,7 +8,7 @@ Learning goals:
 
 1. More on Macros in Excel - Look at handout H13;
 2. Solving LP with a FOR loop;
-3. Implement a LP model using numpy arrays.
+3. Implement a LP model using numpy arrays (Approach 2).
 
 To open the file for Lab 07 follow the steps below.
 
