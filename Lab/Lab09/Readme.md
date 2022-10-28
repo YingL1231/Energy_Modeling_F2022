@@ -2,7 +2,7 @@
 
 ---
 
-# Lab 9 - Linear Programming with FOR Loops
+# Lab 9 - Multiperiod LPs with PYOMO
 
 Learning goals:
 
