@@ -2,16 +2,16 @@
 
 ---
 
-# Lab 9 - Multiperiod LPs with PYOMO
+# Lab 10 - Network Flow with PYOMO - Transportation Model
 
 Learning goals:
 
-1. Finish Gasoline Blending model from Lab 08;
-2. Implement Multiperiod LP from Lesson 16 - H16 with PYOMO;
-3. Learn how to create ordered sets.
+1. Implement the first type of Network Flow - Transportation - model in PYOMO;
+2. Practice debugging Python codes;
+3. Understanding the sign <= or >= or == for demand/supply constraints.
 
 
-To open the file for Lab 09 follow the steps below.
+To open the file for Lab 10 follow the steps below.
 
 * Step 1: Open your google drive, navigate to your "Colab Notebooks" <br>
 * Step 2: Click on the plus sign on the upper left **+ New** and navigate to "Google Colaboratory". It should be under *More*. <br>
